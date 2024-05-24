@@ -1,2 +1,2 @@
 # Spoky
-Vendemos artículos y productos para animales domésticos. 
+es para el proyecto
