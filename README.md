@@ -1,2 +1,2 @@
-# Spoky
+# VinilType
 es para el proyecto
